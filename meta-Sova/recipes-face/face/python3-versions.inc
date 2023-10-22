@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python3-dlib = "19.24.2"

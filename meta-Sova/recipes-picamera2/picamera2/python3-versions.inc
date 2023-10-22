@@ -1,0 +1,7 @@
+PREFERRED_VERSION_python3-picamera2 = "0.3.9"
+PREFERRED_VERSION_python3-pidng = "4.0.9"
+PREFERRED_VERSION_python3-numpy = "1.24.3"
+PREFERRED_VERSION_python3-pillow = "9.5.0"
+PREFERRED_VERSION_python3-python-prctl = "1.8.1"
+PREFERRED_VERSION_python3-simplejpeg = "1.6.6"
+PREFERRED_VERSION_python3-v4l2-python3 = "0.3.2"
